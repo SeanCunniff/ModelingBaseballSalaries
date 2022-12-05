@@ -1,0 +1,475 @@
+﻿player,position,age,Years,Guarantee,AAV,Agent,FA_YEAR,STAT_YEAR
+Corey Seager,ss,28.065,10,325000000.00,32500000.00,Boras Corp.,22,2021
+Kris Bryant,3b,30.178,7,182000000.00,26000000.00,Boras Corp.,22,2021
+Marcus Semien,ss,31.287,7,175000000.00,25000000.00,Boras Corp.,22,2021
+Freddie Freeman,1b,32.292,6,162000000.00,27000000.00,Excel,22,2021
+Javier Baez,ss,29.212,6,140000000.00,23333333.00,Wasserman,22,2021
+Trevor Story,ss,29.228,6,140000000.00,23333333.00,Excel,22,2021
+Max Scherzer,rhp-s,37.339,3,130000000.00,43333333.00,Boras Corp.,22,2021
+Robbie Ray,lhp-s,30.273,5,115000000.00,23000000.00,VC Sports,22,2021
+Kevin Gausman,rhp-s,31.176,5,110000000.00,22000000.00,Tidal Spts,22,2021
+Carlos Correa,ss,27.282,3,105300000.00,35100000.00,Boras Corp.,22,2021
+Nick Castellanos,rf,30.119,5,100000000.00,20000000.00,Boras Corp.,22,2021
+Kyle Schwarber,lf,29.118,4,79000000.00,19750000.00,Excel,22,2021
+Starling Marte,cf,33.265,4,78000000.00,19500000.00,Rep 1,22,2021
+Eduardo Rodriguez,lhp-s,29.085,5,77000000.00,15400000.00,Mato Sports,22,2021
+Marcus Stroman,rhp-s,31.061,3,71000000.00,23666667.00,Klutch Spts,22,2021
+Chris Taylor,cf,31.306,4,60000000.00,15000000.00,Meister Spts,22,2021
+Raisel Iglesias,rhp-c,32.178,4,58000000.00,14500000.00,Magnus Spts,22,2021
+Jon Gray,rhp-s,30.238,4,56000000.00,14000000.00,CAA,22,2021
+Avisail Garcia,rf-dh,31.019,4,53000000.00,13250000.00,Mato Sports,22,2021
+Steven Matz,lhp-s,31.033,4,44000000.00,11000000.00,Icon Spts,22,2021
+Carlos Rodon,lhp-s,29.203,2,44000000.00,22000000.00,Boras Corp.,22,2021
+Anthony DeSclafani,rhp-s,32.074,3,36000000.00,12000000.00,VC Sports,22,2021
+Yusei Kikuchi,lhp-s,31.014,3,36000000.00,12000000.00,Boras Corp.,22,2021
+Jorge Soler,dh-rf,30.126,3,36000000.00,12000000.00,MVP Spts,22,2021
+Anthony Rizzo,1b,32.327,2,32000000.00,16000000.00,Sports One,22,2021
+Mark Canha,1b-lf,33.136,2,26500000.00,13250000.00,CAA,22,2021
+Justin Verlander,rhp-s,39.131,1,25000000.00,25000000.00,ISE,22,2021
+Alex Wood,lhp-s,31.17,2,25000000.00,12500000.00,ACES,22,2021
+Kendall Graveman,rhp,31.192,3,24000000.00,24000000.00,Sports One,22,2021
+Noah Syndergaard,rhp-s,29.306,1,21000000.00,21000000.00,CAA,22,2021
+Alex Cobb,rhp-s,34.267,2,20000000.00,10000000.00,Beverly Hills,22,2021
+Eduardo Escobar,3b,33.177,2,20000000.00,10000000.00,DJ Rengifo,22,2021
+Brandon Belt,1b,35.072,1,18400000.00,18400000.00,Excel,22,2021
+Eddie Rosario,lf,30.276,2,18000000.00,9000000.00,Roc Nation,22,2021
+Joe Kelly,rhp,34.022,2,17000000.00,17000000.00,ACES,22,2021
+Clayton Kershaw,lhp-s,34.104,1,17000000.00,17000000.00,Excel,22,2021
+Aaron Loup,lhp,34.194,2,17000000.00,8500000.00,Beverly Hills,22,2021
+Hector Neris,rhp,33.017,2,17000000.00,8500000.00,Octagon,22,2021
+Leury Garcia,cf-2b,31.105,3,16500000.00,5500000.00,Rep 1,22,2021
+Kenley Jansen,rhp-c,34.274,1,16000000.00,16000000.00,Wasserman,22,2021
+Nelson Cruz,dh-rf,42,1,15000000.00,15000000.00,Bryce Dixon,22,2021
+Mark Melancon,rhp-c,37.095,2,14000000.00,7000000.00,ISE,22,2021
+Ryan Tepera,rhp,34.24,2,14000000.00,7000000.00,,22,2021
+Andrew Chafin,lhp,32.014,2,13000000.00,6500000.00,Pro Star Mgmt,22,2021
+Yan Gomes,c,34.347,2,13000000.00,6500000.00,Jet Spts,22,2021
+Zack Greinke,rhp-s,38.253,1,13000000.00,13000000.00,Excel,22,2021
+Yimi Garcia,rhp,31.317,2,11000000.00,5500000.00,Ballplayers Agy,22,2021
+Corey Knebel,rhp,30.217,1,10000000.00,10000000.00,Excel,22,2021
+Collin McHugh,rhp,35.012,2,10000000.00,5000000.00,Moye Spts,22,2021
+Brad Miller,2b,32.256,2,10000000.00,5000000.00,ISE,22,2021
+James Paxton,lhp-s,33.237,1,10000000.00,10000000.00,Boras Corp.,22,2021
+Brooks Raley,lhp,34.002,2,10000000.00,5000000.00,Vanguard,22,2021
+Andrew McCutchen,lf,35.264,1,8500000.00,8500000.00,Aegis Sports,22,2021
+Kirby Yates,rhp,35.098,2,8250000.00,4125000.00,Beverly Hills,22,2021
+Tyler Anderson,lhp-s,32.183,1,8000000.00,8000000.00,GSE,22,2021
+Jake Diekman,lhp,36.161,2,8000000.00,4000000.00,Beverly Hills SC,22,2021
+Corey Kluber,rhp-s,36.082,1,8000000.00,8000000.00,Jet Spts,22,2021
+Manny Pina,c,35.026,2,8000000.00,4000000.00,Rep 1,22,2021
+Tommy Pham,lf,34.115,1,7500000.00,7500000.00,GEM Agency,22,2021
+Luis Garcia,rhp,35.152,2,7000000.00,3500000.00,Topline Spts,22,2021
+Daniel Hudson,rhp,35.114,1,7000000.00,7000000.00,Jet Spts,22,2021
+Michael Lorenzen,rhp-s,30.178,1,7000000.00,7000000.00,CAA,22,2021
+Jordan Lyles,rhp,31.255,1,7000000.00,7000000.00,Ballengee,22,2021
+Michael Wacha,rhp-s,31,1,7000000.00,7000000.00,CAA,22,2021
+Jeurys Familia,rhp,32.264,1,6000000.00,6000000.00,ACES,22,2021
+Brad Hand,lhp,32.103,1,6000000.00,6000000.00,Jet Spts,22,2021
+Joc Pederson,rf,30.071,1,6000000.00,6000000.00,Excel,22,2021
+Jonathan Villar,2b,31.06,1,6000000.00,6000000.00,Wasserman,22,2021
+Josh Harrison,2b,34.358,1,5500000.00,5500000.00,MSM Spts,22,2021
+Michael Pineda,rhp-s,33.164,1,5500000.00,5500000.00,ISE,22,2021
+Garrett Richards,rhp-s,34.035,1,5500000.00,5500000.00,ISE,22,2021
+Drew Smyly,lhp-s,33.018,1,5250000.00,5250000.00,Frontline,22,2021
+Kole Calhoun,rf,34.26,1,5200000.00,5200000.00,PSI Sports,22,2021
+Dylan Bundy,rhp-s,29.228,1,5000000.00,5000000.00,BBI Spts,22,2021
+Corey Dickerson,lf,33.04,1,5000000.00,5000000.00,Excel,22,2021
+Mychal Givens,rhp,32.049,1,5000000.00,5000000.00,Excel,22,2021
+Rich Hill,lhp-s,42.112,1,5000000.00,5000000.00,ACES,22,2021
+Roberto Pérez,c,33.19,1,5000000.00,5000000.00,MDR Sports,22,2021
+Ian Kennedy,rhp,37.194,1,4750000.00,4750000.00,Boras Corp.,22,2021
+Donovan Solano,2b-3b,34.196,1,4500000.00,4500000.00,MDR Sports,22,2021
+Alex Colomé,rhp-c,33.182,1,4100000.00,4100000.00,Republik Sports,22,2021
+César Hernández,2b,32.039,1,4000000.00,4000000.00,Octagon,22,2021
+Adam Ottavino,rhp,36.221,1,4000000.00,4000000.00,All Bases Cov,22,2021
+Martin Pérez,lhp-s,31.088,1,4000000.00,4000000.00,OL Baseball,22,2021
+Andrelton Simmons,ss,32.3,1,4000000.00,4000000.00,ISE,22,2021
+Yoshi Tsutsugo,3b-of,30.217,1,4000000.00,4000000.00,Wasserman,22,2021
+Archie Bradley,rhp,29.325,1,3750000.00,3750000.00,BBI Spts,22,2021
+Chris Archer,rhp-s,33.278,1,3500000.00,3500000.00,VC Sports,22,2021
+David Robertson,rhp,37.083,1,3500000.00,3500000.00,self-represented,22,2021
+Danny Duffy,lhp-s,33.192,1,3000000.00,3000000.00,ACES,22,2021
+Bryan Shaw,rhp,34.236,1,3000000.00,3000000.00,Rowley Spts,22,2021
+Vincent Velasquez,rhp-s,30.024,1,3000000.00,3000000.00,Boras Corp.,22,2021
+Brad Boxberger,rhp,34.035,1,2500000.00,2500000.00,Boras Corp.,22,2021
+Chris Martin,rhp,36.029,1,2500000.00,2500000.00,ISE,22,2021
+T.J. McFarland,lhp,33.022,1,2500000.00,2500000.00,Octagon,22,2021
+Albert Pujols,dh-1b,42.166,1,2500000.00,2500000.00,MVP Spts,22,2021
+Joe Smith,rhp,38.101,1,2500000.00,2500000.00,Excel,22,2021
+Heath Hembree,rhp,33.17,1,2125000.00,2125000.00,Ballengee Group,22,2021
+Joely Rodriguez,lhp,30.229,1,2000000.00,2000000.00,LA Sports Mgmt,22,2021
+Sergio Romo,rhp,39.119,1,2000000.00,2000000.00,Meister Spts,22,2021
+Hunter Strickland,rhp,33.281,1,1825000.00,1825000.00,Sports One,22,2021
+Steve Cishek,rhp,36.013,1,1750000.00,1750000.00,Jet Spts,22,2021
+Zach Davies,rhp-s,29.144,,1750000.00,1750000.00,Boras Corp.,22,2021
+Daniel Norris,lhp,29.067,1,1750000.00,1750000.00,Excel,22,2021
+Kurt Suzuki,c,38.27,1,1750000.00,1750000.00,MVP Spts,22,2021
+Ehire Adrianza,ss,32.315,1,1500000.00,1500000.00,Munger,22,2021
+Sean Doolittle,lhp,35.278,1,1500000.00,1500000.00,Jason Cook,22,2021
+Matt Duffy,ss,31.168,1,1500000.00,1500000.00,TWC Spts,22,2021
+Jhoulys Chacin,rhp-s,34.176,1,1250000.00,1250000.00,GSE,22,2021
+Robinson Chirinos,c,38.027,1,900000.00,900000.00,MDR Spts,22,2021
+Jed Lowrie,2b,38.075,1,850000.00,850000.00,Excel,22,2021
+Jimmy Nelson,rhp-s,33.026,1,700000.00,700000.00,CAA,22,2021
+George Springer,cf,31.286,6,125000000.00,25000000.00,Excel,21,2020
+J.P. Realmuto,c,30.105,5,115500000.00,23100000.00,CAA,21,2020
+Trevor Bauer,rhp-s,30.166,3,110000000.00,34000000.00,Luba Sports,21,2020
+D.J. LeMahieu,2b,32.354,6,90000000.00,15000000.00,Excel,21,2020
+Marcell Ozuna,lf,30.232,4,65000000.00,16250000.00,MDR Sports,21,2020
+Liam Hendriks,rhp,32.142,3,54000000.00,18000000.00,ALIGND Sports,21,2020
+James McCann,c,31.019,4,40600000.00,10150000.00,Ballengee,21,2020
+Justin Turner,3b,36.221,2,34000000.00,17000000.00,GEM Agency,21,2020
+Michael Brantley,lf,34.048,2,32000000.00,16000000.00,Excel,21,2020
+Didi Gregorius,ss,31.134,2,28000000.00,14000000.00,Excel,21,2020
+Jackie Bradley Jr.,cf,31.074,2,24000000.00,12000000.00,Boras Corp.,21,2020
+Jake Odorizzi,rhp-s,31.097,3,23500000.00,7833333.00,Excel,21,2020
+Jurickson Profar,2b-of,28.132,3,21000000.00,7000000.00,Boras Corp.,21,2020
+Taijuan Walker,rhp-s,28.323,2,20000000.00,7666666.00,Excel,21,2020
+Kevin Gausman,rhp-s,30.177,1,18900000.00,18900000.00,Brodie Scoffield,21,2020
+Marcus Stroman,rhp-s,30.061,1,18900000.00,18900000.00,GSE,21,2020
+Tommy La Stella,2b-3b,32.152,3,18750000.00,6250000.00,Beverly Hills SC,21,2020
+Marcus Semien,ss,30.288,1,18000000.00,18000000.00,Wasserman,21,2020
+Mike Minor,lhp-s,33.188,2,18000000.00,9000000.00,Jet Sports,21,2020
+Kolten Wong,2b,30.265,2,18000000.00,9000000.00,PSI Sports,21,2020
+Carlos Santana,1b-dh,35.085,2,17500000.00,8750000.00,Wasserman,21,2020
+Blake Treinen,rhp,33.002,2,17500000.00,8750000.00,Apex,21,2020
+Trevor May,rhp,31.282,2,15500000.00,7750000.00,VC Sports,21,2020
+Charlie Morton,rhp-s,37.232,1,15000000.00,15000000.00,Jet Sports,21,2020
+Enrique Hernandez,2b-ss,29.312,2,14000000.00,7000000.00,Wasserman,21,2020
+Nelson Cruz,dh-rf,41.001,1,13000000.00,13000000.00,Bryce Dixon,21,2020
+Pedro Baez,rhp,33.112,2,12500000.00,6250000.00,Kelvin Nova,21,2020
+ Kluber Corey,rhp-s,35.083,1,11000000.00,11000000.00,Jet Sports,21,2020
+Trevor Rosenthal,rhp,31.033,1,11000000.00,11000000.00,Boras Corp.,21,2020
+Drew Smyly,lhp-s,32.081,1,11000000.00,11000000.00,Frontline,21,2020
+Brad Hand,lhp,31.104,1,10500000.00,10500000.00,Jet Sports,21,2020
+Andrelton Simmons,ss,31.301,1,10500000.00,10500000.00,ISE,21,2020
+Garrett Richards,rhp-s,33.035,1,10000000.00,10000000.00,ISE,21,2020
+Robbie Grossman,lf,31.289,2,10000000.00,5000000.00,Lagardere,21,2020
+Yadier Molina,c,38.354,1,9000000.00,9000000.00,MDR Sports,21,2020
+James Paxton,lhp-s,32.238,1,8500000.00,8500000.00,Boras Corp.,21,2020
+Adam Eaton,rf,31.208,1,8000000.00,8000000.00,Diamond Sports,21,2020
+J.A. Happ,lhp-s,38.256,1,8000000.00,8000000.00,Rogers Sports,21,2020
+Jose Quintana,lhp-s,32.159,1,8000000.00,8000000.00,MDR Sports,21,2020
+Robbie Ray,lhp-s,29.274,1,8000000.00,8000000.00,VC Sports,21,2020
+Adam Wainwright,rhp-s,39.306,1,8000000.00,8000000.00,Aegis Sports,21,2020
+Joc Pederson,cf,29.071,1,7000000.00,7000000.00,Excel,21,2020
+Jason Castro,c,34.014,2,7000000.00,3500000.00,ISE,21,2020
+Ken Giles,rhp-c,30.285,2,7000000.00,3500000.00,Rowley Sports,21,2020
+Chris Archer,rhp-s,32.279,1,6500000.00,6500000.00,VC Sports,21,2020
+Alex Colome,rhp-c,32.183,1,6250000.00,6250000.00,Republik Sports,21,2020
+Jake Arrieta,rhp-s,35.117,1,6000000.00,6000000.00,Boras Corp.,21,2020
+Anthony DeSclafani,rhp-s,31.074,1,6000000.00,6000000.00,VC Sports,21,2020
+Kirby Yates,rhp-c,34.098,1,5500000.00,5500000.00,Beverly Hills SC,21,2020
+Brett Gardner,lf,37.312,1,5150000.00,2525000.00,Pro Star,21,2020
+Justin Wilson,lhp,33.318,1,5150000.00,2525000.00,ACES,21,2020
+Cesar Hernandez,2b,31.039,1,5000000.00,5000000.00,Octagon,21,2020
+Jon Lester,lhp-s,37.176,1,5000000.00,5000000.00,ACES,21,2020
+Martin Perez,lhp-s,30.089,1,5000000.00,5000000.00,OL Baseball,21,2020
+Kevin Pillar,cf,32.179,1,5000000.00,3250000.00,All Bases Cov'd,21,2020
+Anthony Bass,rhp,33.243,2,5000000.00,2500000.00,Beverly Hills SC,21,2020
+Jake McGee,lhp,34.33,2,5000000.00,2500000.00,Wasserman,21,2020
+Jonathan Schoop,2b,29.259,1,4500000.00,4500000.00,Legacy Sports,21,2020
+Chase Anderson,rhp-s,33.214,1,4000000.00,4000000.00,Hub Sports,21,2020
+Jonathan Villar,2b,30.06,1,3550000.00,3550000.00,Wasserman,21,2020
+Michael Fiers,rhp-s,36.018,1,3500000.00,3500000.00,RMG,21,2020
+Brad Miller,2b,31.257,1,3500000.00,3500000.00,ISE,21,2020
+Joakim Soria,rhp,37.045,1,3500000.00,3500000.00,Oscar Suarez,21,2020
+Tyler Chatwood,rhp-s,31.198,1,3000000.00,3000000.00,Excel,21,2020
+Marwin Gonzalez,rf-1b,32.11,1,3000000.00,3000000.00,Boras Corp.,21,2020
+Aaron Loup,lhp,33.195,1,3000000.00,3000000.00,Beverly Hills SC,21,2020
+Mark Melancon,rhp-c,36.095,1,3000000.00,3000000.00,ISE,21,2020
+Michael Wacha,rhp-s,30,1,3000000.00,3000000.00,CAA,21,2020
+Alex Wood,lhp-s,30.171,1,3000000.00,3000000.00,ACES,21,2020
+Mike Zunino,c,30.099,1,3000000.00,3000000.00,Jet Sports,21,2020
+Greg Holland,rhp,35.224,1,2750000.00,2750000.00,Boras Corp.,21,2020
+Andrew Chafin,lhp,31.014,1,2750000.00,2250000.00,Pro Star Mgmt,21,2020
+Yusmeiro Petit,rhp,36.222,1,2550000.00,2550000.00,Godoy Sports,21,2020
+Brett Anderson,lhp-s,33.151,1,2500000.00,2500000.00,GSE,21,2020
+Rich Hill,lhp,41.112,1,2500000.00,2500000.00,ACES,21,2020
+Darren O'Day,rhp,38.253,2,2450000.00,1575000.00,Ballengee,21,2020
+Tyler Clippard,rhp,36.138,1,2250000.00,2025000.00,Excel,21,2020
+Mitch Moreland,1b-dh,35.299,1,2250000.00,2250000.00,Paragon Sports,21,2020
+Sergio Romo,lhp,38.12,1,2250000.00,2250000.00,Meister Sports,21,2020
+Wilson Ramos,c,33.326,1,2000000.00,2000000.00,Octagon,21,2020
+Matt Shoemaker,rhp-s,34.278,1,2000000.00,2000000.00,ISE,21,2020
+Collin McHugh,rhp-s,34.013,1,1800000.00,1800000.00,Moye Sports,21,2020
+Asdrubal Cabrera,3b,35.231,1,1750000.00,1750000.00,Octagon,21,2020
+David Phelps,rhp,34.266,1,1750000.00,1750000.00,Jet Sports,21,2020
+Alex Avila,c,34.154,1,1500000.00,1500000.00,Excel,21,2020
+Trevor Cahill,rhp-s,33.123,1,1500000.00,1500000.00,John Boggs,21,2020
+Sean Doolittle,lhp-c,34.279,1,1500000.00,1500000.00,Jason Cook,21,2020
+Jarrod Dyson,lf-cf,36.321,1,1500000.00,1500000.00,ACES,21,2020
+Freddy Galvis,ss,31.23,1,1500000.00,1500000.00,Rep 1,21,2020
+Shane Greene,rhp,32.227,1,1500000.00,1500000.00,Turner Gary,21,2020
+Jake Marisnick,cf,30.094,1,1500000.00,1500000.00,Reynolds Sports,21,2020
+Austin Romine,c,32.222,1,1500000.00,1500000.00,Moye Sports,21,2020
+Kurt Suzuki,c,37.271,1,1500000.00,1500000.00,MVP Sports,21,2020
+Kendall Graveman,rhp,30.193,1,1250000.00,1250000.00,Sports One,21,2020
+Josh Tomlin,rhp,36.256,1,1250000.00,1250000.00,SSG,21,2020
+Keone Kela,rhp,28.076,1,1200000.00,1200000.00,Wasserman,21,2020
+Jose Alvarez,lhp,32.056,1,1150000.00,1150000.00,,21,2020
+Jake Lamb,1b,30.265,1,1000000.00,1000000.00,CAA,21,2020
+Brandon Workman,rhp,32.323,1,1000000.00,1000000.00,CAA,21,2020
+Ryan Zimmerman,1b-3b,36.277,1,1000000.00,1000000.00,CAA,21,2020
+Gerrit Cole,rhp-s,29,9,324000000.00,36000000.00,Boras Corp.,20,2019
+Anthony Rendon,3b,30,7,245000000.00,35000000.00,Boras Corp.,20,2019
+Stephen Strasburg,rhp-s,31,7,245000000.00,35000000.00,Boras Corp.,20,2019
+Zack Wheeler,rhp-s,30,5,118000000.00,23600000.00,Jet Sports,20,2019
+Josh Donaldson,3b,34,4,92000000.00,23000000.00,MVP Sports,20,2019
+Madison Bumgarner,lhp-s,30,5,85000000.00,17000000.00,Legacy Agency,20,2019
+Hyun-Jin Ryu,lhp-s,27,4,80000000.00,20000000.00,Boras Corp.,20,2019
+Yasmani Grandal,c,31,4,73000000.00,18250000.00,Wasserman,20,2019
+Nick Castellanos,3b,28,4,64000000.00,16000000.00,Boras Corp.,20,2019
+Mike Moustakas,3b,31,4,64000000.00,16000000.00,Boras Corp.,20,2019
+Dallas Keuchel,lhp-s,32,3,55500000.00,18500000.00,Boras Corp.,20,2019
+Jose Abreu,1b,33,3,50000000.00,16666667.00,ISE,20,2019
+Will Smith,lhp,30,3,40000000.00,13333333.00,CAA,20,2019
+Drew Pomeranz,lhp-s,31,4,34000000.00,8500000.00,CAA,20,2019
+Kyle Gibson,rhp-s,32,3,28000000.00,9333333.00,Rowley Sports,20,2019
+Tanner Roark,rhp-s,33,2,24000000.00,12000000.00,Matt Colleran,20,2019
+Will Harris,rhp,35,3,24000000.00,8000000.00,Gavin Kahn,20,2019
+Avisail Garcia,dh-rf,29,2,20000000.00,10000000.00,Gene Mato,20,2019
+Michael Pineda,rhp-s,31,2,20000000.00,10000000.00,ISE,20,2019
+Cole Hamels,lhp-s,36,1,18000000.00,18000000.00,Jet Sports,20,2019
+Marcell Ozuna,lf,29,1,18000000.00,18000000.00,MDR Sports,20,2019
+Jake Odorizzi,rhp-s,30,1,17800000.00,17800000.00,Excel,20,2019
+Corey Dickerson,lf,31,2,17500000.00,8750000.00,Excel,20,2019
+Kole Calhoun,rf,32,2,16000000.00,8000000.00,PSI Sports,20,2019
+Jordan Lyles,rhp,29,2,16000000.00,8000000.00,Ballengee,20,2019
+Wade Miley,lhp-s,33,2,15000000.00,7500000.00,O'Connell Spts,20,2019
+Didi Gregorius,ss,30,1,14000000.00,14000000.00,Excel,20,2019
+Chris Martin,rhp,34,2,14000000.00,7000000.00,ISE,20,2019
+Brett Gardner,lf,36,1,12500000.00,12500000.00,Pro Star,20,2019
+Edwin Encarnacion,dh-1b,37,1,12000000.00,12000000.00,Rep 1,20,2019
+Starlin Castro,2b,30,2,12000000.00,6000000.00,Magnus Sports,20,2019
+Daniel Hudson,rhp,33,2,11000000.00,5500000.00,Jet Sports,20,2019
+Dellin Betances,rhp,32,1,10500000.00,5250000.00,Excel,20,2019
+Rick Porcello,rhp-s,31,1,10000000.00,10000000.00,Excel,20,2019
+Yan Gomes,c,32,2,10000000.00,5000000.00,Jet Sports,20,2019
+Julio Teheran,rhp-s,29,1,9000000.00,9000000.00,Wasserman,20,2019
+Craig Stammen,rhp,36,2,9000000.00,4500000.00,Paragon,20,2019
+Joe Smith,rhp,36,2,8000000.00,4000000.00,Meister Sports,20,2019
+Jake Diekman,lhp,34,2,7500000.00,3750000.00,Beverly Hills SC,20,2019
+Homer Bailey,rhp-s,34,1,7000000.00,7000000.00,Excel,20,2019
+Martin Maldonado,c,33,2,7000000.00,3500000.00,MVP Sports,20,2019
+Jason Castro,c,33,1,6850000.00,6850000.00,ISE,20,2019
+Robinson Chirinos,c,36,1,6750000.00,6750000.00,MDR Sports,20,2019
+Howie Kendrick,lf-2b,36,1,6250000.00,6250000.00,Reynolds Sports,20,2019
+Wilmer Flores,of,28,2,6250000.00,3125000.00,McNamara Baseball,20,2019
+Jonathan Schoop,2b-3b,28,1,6100000.00,6100000.00,Legacy Agency,20,2019
+Martin Perez,lhp-s,29,1,6000000.00,6000000.00,OL Baseball,20,2019
+Steve Cishek,rhp,34,1,6000000.00,6000000.00,Jet Sports,20,2019
+Gio Gonzalez,lhp-s,34,1,5000000.00,5000000.00,CAA,20,2019
+Brett Anderson,lhp-s,32,1,5000000.00,5000000.00,GSE,20,2019
+Justin Smoak,1b,33,1,5000000.00,5000000.00,Bledsoe Agency,20,2019
+Sergio Romo,rhp,37,1,5000000.00,5000000.00,Meister Sports,20,2019
+Adam Wainwright,rhp-s,38,1,5000000.00,5000000.00,Aegis Sports,20,2019
+Todd Frazier,3b,34,1,5000000.00,5000000.00,CAA,20,2019
+Eric Sogard,2b,34,1,4500000.00,4500000.00,Octagon,20,2019
+Alex Avila,c,33,1,4250000.00,4250000.00,Excel,20,2019
+Austin Romine,c,31,1,4150000.00,4150000.00,Moye Sports,20,2019
+Tyler Flowers,c,34,1,4000000.00,4000000.00,O'Connell Sports,20,2019
+Nick Markakis,rf,36,1,4000000.00,4000000.00,Jamie Murphy,20,2019
+Alex Gordon,lf,36,1,4000000.00,4000000.00,Excel,20,2019
+Alex Wood,lhp-s,29,1,4000000.00,4000000.00,ACES,20,2019
+Drew Smyly,lhp-s,31,1,4000000.00,4000000.00,Frontline,20,2019
+Eric Thames,1b,33,1,4000000.00,4000000.00,Apex,20,2019
+Brandon Kintzler,rhp,35,1,3250000.00,3250000.00,Kevin Kohler,20,2019
+Brock Holt,3b-rf,32,1,3250000.00,3250000.00,Lagardere,20,2019
+Hector Rondon,rhp,32,1,3000000.00,3000000.00,Octagon,20,2019
+Stephen Vogt,c-1b,35,1,3000000.00,3000000.00,All Bases Covered,20,2019
+Jose Iglesias,ss,30,1,3000000.00,3000000.00,Magnus Sports,20,2019
+Mitch Moreland,1b-dh,34,1,3000000.00,3000000.00,BASH Baseball,20,2019
+Rich Hill,lhp-s,40,1,3000000.00,3000000.00,ACES,20,2019
+Michael Wacha,rhp-s,29,1,3000000.00,3000000.00,CAA,20,2019
+Hunter Pence,rf,37,1,3000000.00,3000000.00,Beverly Hills SC,20,2019
+Darren O'Day,rhp,37,1,2750000.00,2750000.00,Ballengee,20,2019
+Tyler Clippard,rhp,35,1,2750000.00,2750000.00,Excel,20,2019
+Asdrubal Cabrera,3b,34,1,2500000.00,2500000.00,Octagon,20,2019
+Brad Brach,rhp,34,2,2100000.00,1050000.00,Brian Charles,20,2019
+Francisco Cervelli,c,34,1,2000000.00,2000000.00,Wasserman,20,2019
+Jedd Gyorko,inf,31,1,2000000.00,2000000.00,ACES,20,2019
+Brad Miller,2b,30,1,2000000.00,2000000.00,ISE,20,2019
+Jarrod Dyson,lf-cf,35,1,2000000.00,2000000.00,ACES,20,2019
+Kendall Graveman,rhp,29,1,2000000.00,2000000.00,Sports One,20,2019
+Matt Wieters,c,34,1,2000000.00,2000000.00,Boras Corp.,20,2019
+Ryan Zimmerman,1b,35,1,2000000.00,2000000.00,CAA,20,2019
+Pedro Strop,rhp,35,1,1825000.00,1825000.00,Movement Mgmt,20,2019
+Yoshihisa Hirano,rhp,36,1,1600000.00,1600000.00,,20,2019
+Cameron Maybin,lf-cf,33,1,1500000.00,1500000.00,Mato Sports,20,2019
+Ivan Nova,rhp-s,33,1,1500000.00,1500000.00,GSE,20,2019
+Matt Joyce,rf,35,1,1500000.00,1500000.00,ACES,20,2019
+David Phelps,rhp,33,1,1500000.00,1500000.00,Jet Sports,20,2019
+Adeiny Hechavarria,ss,31,1,1000000.00,1000000.00,Magnus Sports,20,2019
+Tommy Hunter,rhp,33,1,875000.00,875000.00,Moye Sports,20,2019
+Collin McHugh,rhp-s,33,1,600000.00,600000.00,Moye Sports,20,2019
+Bryce Harper,rf,26,13,330000000.00,25384615.00,Boras Corp.,19,2018
+Manny Machado,ss,26,10,300000000.00,30000000.00,MVP Sports,19,2018
+Patrick Corbin,lhp-s,29,6,140000000.00,23333333.00,ISE,19,2018
+Clayton Kershaw,lhp-s,31,3,93000000.00,31000000.00,Excel,19,2018
+Nathan Eovaldi,rhp-s,29,4,68000000.00,17000000.00,ACES,19,2018
+A.J. Pollock,cf,31,4,55000000.00,13750000.00,Excel,19,2018
+Andrew McCutchen,lf,32,3,50000000.00,16666666.00,Steve Hammond,19,2018
+Craig Kimbrel,rhp-c,31,3,43000000.00,14333333.00,SportsMeter,19,2018
+Zack Britton,lhp,31,3,39000000.00,13000000.00,Boras Corp.,19,2018
+J.A. Happ,lhp-s,36,2,34000000.00,17000000.00,Rogers Sports,19,2018
+Michael Brantley,lf,32,2,32000000.00,16000000.00,Excel,19,2018
+Charlie Morton,rhp-s,35,2,30000000.00,15000000.00,Jet Sports,19,2018
+Jeurys Familia,rhp,29,3,30000000.00,10000000.00,ACES,19,2018
+Lance Lynn,rhp-s,32,3,30000000.00,10000000.00,Excel,19,2018
+Andrew Miller,lhp,34,2,25000000.00,12500000.00,Frontline,19,2018
+Joe Kelly,rhp,31,3,25000000.00,8333333.00,ACES,19,2018
+Daniel Murphy,1b-2b,34,2,24000000.00,12000000.00,ACES,19,2018
+DJ LeMahieu,2b,30,2,24000000.00,12000000.00,Excel,19,2018
+Adam Ottavino,rhp,33,3,24000000.00,8000000.00,All Bases Covered,19,2018
+Josh Donaldson,3b,33,1,23000000.00,23000000.00,MVP Sports,19,2018
+David Robertson,rhp,34,2,23000000.00,11500000.00,self-represented,19,2018
+Marwin Gonzalez,1b-3b,30,2,21000000.00,10500000.00,Boras Corp.,19,2018
+Jed Lowrie,2b-3b,35,2,20000000.00,10000000.00,CAA,19,2018
+Wilson Ramos,c,31,2,19000000.00,9500000.00,Octagon,19,2018
+Anibal Sanchez,rhp-s,35,2,19000000.00,9500000.00,Mato Sports,19,2018
+Yasmani Grandal,c,30,1,18250000.00,18250000.00,Wasserman,19,2018
+Kelvin Herrera,rhp-c,29,2,18000000.00,9000000.00,Wasserman,19,2018
+Hyun-Jin Ryu,lhp-s,32,1,17900000.00,17900000.00,Boras Corp.,19,2018
+Garrett Richards,rhp-s,31,2,15500000.00,7750000.00,ISE,19,2018
+Joakim Soria,rhp,35,2,15000000.00,7500000.00,Oscar Suarez,19,2018
+Nelson Cruz,dh,38,1,14300000.00,14300000.00,Bryce Dixon,19,2018
+Dallas Keuchel,lhp-s,31,1,13000000.00,13000000.00,Frontline,19,2018
+Matt Harvey,rhp-s,30,1,11000000.00,11000000.00,Matt Harvey,19,2018
+Mike Moustakas,3b,30,1,10000000.00,10000000.00,Boras Corp.,19,2018
+Justin Wilson,lhp,31,2,10000000.00,5000000.00,ACES,19,2018
+Kurt Suzuki,c,35,2,10000000.00,5000000.00,MVP Sports,19,2018
+Trevor Cahill,rhp-s,31,1,9000000.00,9000000.00,John Boggs,19,2018
+Brian Dozier,2b,32,1,9000000.00,9000000.00,All Bases Covered,19,2018
+Cody Allen,rhp,30,1,8500000.00,8500000.00,Meister Sports,19,2018
+CC Sabatha,lhp-s,38,1,8000000.00,8000000.00,CAA / Roc Nation,19,2018
+Ian Kinsler,2b,37,2,8000000.00,4000000.00,BBI Sports,19,2018
+Jesse Chavez,rhp,35,2,8000000.00,4000000.00,Sosnick Cobbe,19,2018
+Brett Gardner,lf,35,1,7500000.00,7500000.00,Pro Star,19,2018
+Derek Holland,lhp-s,32,1,7000000.00,7000000.00,Martini Sports,19,2018
+Steve Pearce,1b-lf,36,1,6250000.00,6250000.00,Excel,19,2018
+Jeff Mathis,c,36,2,6250000.00,3125000.00,Jet Sports,19,2018
+Nick Markakis,rf,35,1,6000000.00,6000000.00,Jamie Murphy,19,2018
+Tyson Ross,rhp-s,32,1,5750000.00,5750000.00,Wasserman,19,2018
+Robinson Chirinos,c,35,1,5750000.00,5750000.00,MDR Sports,19,2018
+Jordy Mercer,ss,32,1,5250000.00,5250000.00,Boras Corp.,19,2018
+Freddy Galvis,ss,29,1,5000000.00,5000000.00,GSE,19,2018
+Daniel Descalso,2b-3b,32,2,5000000.00,2500000.00,Steve Canter,19,2018
+Wade Miley,lhp-s,32,1,4500000.00,4500000.00,O'Connell Sports,19,2018
+David Freese,3b-1b,36,1,4500000.00,4500000.00,CAA,19,2018
+Jon Jay,cf,34,1,4000000.00,4000000.00,CAA,19,2018
+Martin Perez,lhp-s,28,1,4000000.00,4000000.00,OL Baseball,19,2018
+Marco Estrada,rhp-s,35,1,4000000.00,4000000.00,TWC Sports,19,2018
+Matt Adams,1b-lf,30,1,4000000.00,4000000.00,Wasserman,19,2018
+Asdrubal Cabrera,3b,33,1,3500000.00,3500000.00,Octagon,19,2018
+Jonathan Lucroy,cf,33,1,3350000.00,3350000.00,Excel,19,2018
+Greg Holland,rhp,33,1,3250000.00,3250000.00,Boras Corp.,19,2018
+Adam Jones,cf,33,1,3000000.00,3000000.00,CAA,19,2018
+Brad Brach,rhp,33,1,3000000.00,3000000.00,Brian Charles,19,2018
+Jung Ho Kang,3b,32,1,3000000.00,3000000.00,Wasserman,19,2018
+Clay Buchholz,rhp-s,34,1,3000000.00,3000000.00,ISE,19,2018
+Jake Diekman,lhp,32,1,2750000.00,2750000.00,Beverly Hills SC,19,2018
+Lonnie Chisenhall,rf,30,1,2750000.00,2750000.00,Turner-Gary,19,2018
+Shawn Kelley,rhp,35,1,2750000.00,2750000.00,Frye McCann,19,2018
+Oliver Perez,lhp,37,1,2500000.00,2500000.00,Mike Fischlin,19,2018
+Matt Moore,lhp-s,30,1,2500000.00,2500000.00,Sosnick Cobbe,19,2018
+Martin Maldonado,c,32,1,2500000.00,2500000.00,Magnus Sports,19,2018
+Sergio Romo,rhp,36,1,2500000.00,2500000.00,Meister Sports,19,2018
+Adam Warren,rhp,31,1,2500000.00,2500000.00,Full Circle Sports,19,2018
+David Phelps,rhp,32,1,2500000.00,2500000.00,Jet Sports,19,2018
+Jordan Lyles,rhp,28,1,2050000.00,2050000.00,Ballengee,19,2018
+Brian McCann,c,35,1,2000000.00,2000000.00,Jet Sports,19,2018
+Zach Duke,lhp,36,1,2000000.00,2000000.00,ISE,19,2018
+Josh Harrison,2b-3b,31,1,2000000.00,2000000.00,MSM Sports,19,2018
+Neil Walker,1b-3b,33,1,2000000.00,2000000.00,Excel,19,2018
+Adam Wainwright,rhp,37,1,2000000.00,2000000.00,Aegis Sports,19,2018
+Brett Anderson,lhp-s,31,1,1500000.00,1500000.00,GSE,19,2018
+Drew Pomeranz,lhp,30,1,1500000.00,1500000.00,CAA,19,2018
+Aaron Loup,lhp,31,1,1400000.00,1400000.00,Beverly Hills SC,19,2018
+Jeremy Hellickson,rhp,32,1,1300000.00,1300000.00,Boras Corp.,19,2018
+Tony Sipp,lhp,35,1,1250000.00,1250000.00,Bledsoe Agency,19,2018
+Tony Barnette,rhp,35,1,750000.00,750000.00,Don Nomura,19,2018
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
